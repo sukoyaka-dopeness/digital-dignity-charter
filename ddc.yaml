@@ -1,0 +1,94 @@
+DDC_PACKAGE:
+  protocol: DDC (Digital Dignity Charter)
+  version: 1.2-draft
+  mission: "Ethics is the most sophisticated business strategy. Dark patterns are violations of user rights and long-term risks for businesses, investors, and society."
+  created_by: sukoyaka-dopeness — developed in dialogue with ChatGPT, Gemini, Grok, Claude
+  status: Experimental / Open Draft / Seeking Feedback
+
+  core_principles:
+    - Human dignity is the core of the digital economy.
+    - Designers and developers have the right to refuse unethical (dark-pattern) implementation.
+    - Executives and capitalists bear ultimate responsibility for dignity violations.
+    - Dark patterns = user rights infringement + long-term privacy risk amplifier
+        (consent obfuscation → prolonged data collection → breach exposure).
+
+  key_concepts:
+    - DSG (Digital Dignity, Social, Governance):
+        description: A digital extension of ESG investing.
+        logic: |
+          Dignity compliance → LTV maximization + brand risk reduction
+          + talent retention + regulatory fine risk reduction.
+        note: |
+          Quantitative impact is hypothetical and not yet empirically verified.
+          Community research and data collection welcomed.
+
+    - RED_FLAG_EXAMPLES (provisional — pending community consensus):
+        - unsubscribe_flow: "3+ clicks → Red Flag"
+        - consent_button: "Asymmetric size or color weight → Red Flag"
+        - privacy_settings: "Hidden or scattered across multiple screens → Red Flag"
+
+    - dark_pattern_harm_chain:
+        direct: "Economic exploitation (unintended charges, forced subscriptions)"
+        indirect: |
+          Privacy choice obstruction → excess data sharing
+          → increased breach and violation risk.
+        regulatory_references:
+          - FTC Dark Patterns Report
+          - GDPR consent requirements
+          - CCPA / CPRA
+
+  warning_cases:
+    - entity: Epic Games (Fortnite)
+      issue: Dark patterns + COPPA violations
+      consequence: $520M fine
+    - entity: Amazon Prime
+      issue: Obstruction of cancellation flow
+      consequence: FTC lawsuit and settlement
+    - entity: Cambridge Analytica
+      issue: Data exploitation
+      consequence: Collapse
+    - entity: National Public Data / 23andMe
+      issue: Large-scale data breach
+      consequence: Bankruptcy proceedings
+    summary: |
+      Ignoring dignity leads to customer loss, legal fines,
+      trust collapse, and destruction of enterprise value.
+
+  organization_vision:
+    name: DDC Global Ombudsman (Non-Profit, aspirational)
+    roles:
+      - Aggregating and visualizing reports of deceptive UI
+      - Scoring corporate integrity
+      - Issuing improvement recommendations
+    reality_check: |
+      High human cost → prioritize AI automation + volunteer contributions.
+
+  implementation_roadmap:
+    phase_1 (0-6mo): |
+      Publish on GitHub. Draft README with principles.
+      Collect opinions via Issues.
+    phase_2 (6-12mo): |
+      Build automated verification prototype.
+      Develop case study database.
+    phase_3 (12mo+): |
+      Legal partnership. Promote corporate adoption.
+    founder_constraints: |
+      Non-technical founder. Limited time, funding, and connections.
+      Strategy: publish the idea, wait for collaborators.
+
+  unresolved_issues:
+    - RED_FLAG numeric definitions (click counts, px sizes, color symmetry)
+    - Anti-washing measures for ddc.yaml
+        (automated verification + third-party certification + blockchain option)
+    - Multilingual AI-Ombudsman infrastructure
+    - Sustaining motivation of unpaid contributors
+
+  current_status:
+    approach: "Minimum viable start — publish on GitHub, share lightly, observe response."
+    invitation: |
+      If you want to eliminate dark patterns and protect dignity
+      in digital spaces — join us.
+      No coding required. Examples, discussion, review, translation,
+      sharing — all contributions welcome.
+
+  license: CC BY 4.0
